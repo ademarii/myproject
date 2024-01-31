@@ -1,0 +1,6 @@
+Name,Age,Gender,Income,Education
+John,25,Male,$50000,Bachelor
+Jane,30,Female,$60000,Master
+Bob,,Male,$45000,High School
+Alice,22,Female,,PhD
+Eve,28,Female,$70000,Bachelor
